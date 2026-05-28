@@ -70,5 +70,5 @@ with col2:
     with center:
         
         st.write("## Affan Pradipa")
-        st.image("images/rafly.jpg", width=200)
+        st.image("images/affan.jpeg", width=200)
         st.write("## 2313010638")
